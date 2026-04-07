@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+    background-image:linear-gradient(rgba(213, 173, 112, 0.848));
+  }
+ h1{
+    color: bisque;
+    font-family:courier;
+    font-style: oblique;
+ }
+ img{
+
+     width: 500px;  
+border: 15PX solid rgb(5,7,30); 
+margin:100px ;
+}
+ div{
+     width: 300px;
+     border: 15px solid rgb(5,7,30);
+    background-color: beige;
+    padding: 50px;
+    margin: 140px;
+    border-radius: 30px;
+ }
